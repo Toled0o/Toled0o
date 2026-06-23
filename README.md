@@ -37,7 +37,6 @@ const murilo = {
 
 <br/>
 
-- 💻 **Apaixonado por programação** — transformando ideias em código
 - 📚 **Estudando Ciências da Computação** — algorítmos, estruturas de dados e muito mais
 - 🚀 **Desenvolvedor Full Stack** — do front ao back, do banco ao deploy
 - 🌱 **Sempre aprendendo** — cada projeto é uma nova oportunidade
