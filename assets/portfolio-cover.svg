@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Conheça o portfólio de Murilo Toledo</title><desc id="desc">Projetos, código e aprendizado. Explore o site para conhecer os projetos e a formação em Ciência da Computação.</desc>
+<rect width="1200" height="330" fill="#f4f9fd"/><rect x="1" y="1" width="1198" height="328" fill="none" stroke="#c2d9eb"/>
+<path d="M56 76V42l20 22 20-22v34M76 64v12" stroke="#2c6d9b" stroke-width="3" fill="none"/>
+<text x="120" y="65" font-family="Arial,sans-serif" font-size="18" fill="#456b86" letter-spacing="3">MURILO TOLEDO / PORTFÓLIO</text>
+<text x="53" y="158" font-family="Arial,sans-serif" font-weight="bold" font-size="58" fill="#203b51" letter-spacing="-2">Projetos, código</text>
+<text x="53" y="224" font-family="Arial,sans-serif" font-weight="bold" font-size="58" fill="#2c6d9b" letter-spacing="-2">&amp; aprendizado.</text>
+<line x1="56" y1="265" x2="1144" y2="265" stroke="#c2d9eb"/>
+<text x="56" y="300" font-family="Arial,sans-serif" font-size="19" fill="#536b7c">CIÊNCIA DA COMPUTAÇÃO · FAESA · VITÓRIA, ES</text>
+<rect x="770" y="140" width="374" height="64" fill="#2c6d9b"/><text x="798" y="180" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Explorar portfólio</text><path d="M1094 184l23-23m-19 0h19v19" fill="none" stroke="#ffffff" stroke-width="3"/>
+</svg>

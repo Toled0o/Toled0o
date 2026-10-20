@@ -6,6 +6,10 @@ Estou construindo minha base em programação com projetos em Python e explorand
 
 [Projetos em Python](https://github.com/Toled0o/Projetos-python) · [LinkedIn](https://www.linkedin.com/in/murilo-siqueira-toledo-157331413/) · [E-mail](mailto:murilosiqueiratoledo@gmail.com)
 
+<a href="https://toled0o.github.io/Toled0o/"><img src="assets/portfolio-cover.svg" alt="Conheça meu portfólio: projetos, código e aprendizado" width="100%"></a>
+
+**[Explorar meu portfólio →](https://toled0o.github.io/Toled0o/)**
+
 ## Projetos em destaque
 
 ### Gerenciador financeiro — Python
