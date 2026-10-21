@@ -22,7 +22,13 @@ nav a:hover,nav a[aria-current="location"]{color:#1e5e8b;background:#e2f0fa}.nav
 .rail-links{display:flex;gap:21px;font-size:13px}.rail-links a:hover{color:var(--mint);text-decoration:underline}.rail-caption{font-size:11px;color:var(--muted);margin:22px 0 0}
 main{min-width:0}.skip{position:fixed;top:-100px;left:15px;background:#24648f;color:#fff;padding:12px;z-index:50}.skip:focus{top:15px}
 h1,h2,h3,h4,p{margin-top:0}h1,h2,h3,h4{line-height:1.25;font-weight:700}h1{font-size:clamp(45px,5.2vw,72px);letter-spacing:-.055em;margin:50px 0 27px}h1>span{display:block;color:var(--mint);font-size:clamp(25px,3vw,38px);letter-spacing:-.035em;line-height:1.35;font-weight:500;margin-top:20px}
-.intro{padding-top:48px}.topline{display:flex;justify-content:space-between;gap:20px;font-size:14px;color:var(--muted)}
+.intro{padding-top:48px}.topline{display:flex;align-items:center;justify-content:space-between;gap:20px;font-size:14px;color:var(--muted)}
+.profile-photo{display:block;flex-shrink:0;width:128px;height:128px;object-fit:cover;border:5px solid #fff;border-radius:28px;box-shadow:0 0 0 1px #c6dfee,0 8px 24px #245d8210}
+.tech-icon{display:block;flex-shrink:0;width:20px;height:20px;object-fit:contain}
+.tags>span{display:inline-flex;align-items:center;gap:7px}
+.skill-table p strong.skill-technologies{display:flex;align-items:center;flex-wrap:wrap;gap:8px 16px}
+.skill-table p .tech-label{display:inline-flex;align-items:center;gap:7px;margin:0}
+@media(max-width:760px){.profile-photo{width:80px;height:80px;border-width:3px;border-radius:20px}.topline>span{max-width:155px}}
 .intro-bottom{display:flex;gap:32px;align-items:flex-end;justify-content:space-between}.intro-bottom p{max-width:520px;font-size:17px;line-height:1.9;color:var(--muted);margin-bottom:0}
 .intro-link{display:flex;align-items:center;gap:13px;flex-shrink:0;color:#245d84}.scroll-label{font-size:13px;font-weight:650;max-width:100px;line-height:1.5}.scroll-arrow{display:grid;place-items:center;border:1px solid #9bbfd7;border-radius:28px;width:40px;height:55px;font-size:22px;background:#e9f4fc}
 .topic-strip{display:grid;grid-template-columns:1fr 1.5fr 1fr;gap:23px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:21px 0;margin-top:42px;font-size:13px}.topic-strip small{display:block;color:var(--muted);font-size:12px;margin-bottom:5px}.topic-strip>span{font-weight:600}
