@@ -16,6 +16,23 @@ Desenvolvo projetos web e desktop para praticar programação, persistência, te
 
 [Portfólio](https://toled0o.github.io/Toled0o/) · [LinkedIn](https://www.linkedin.com/in/murilo-siqueira-toledo-157331413/) · [E-mail](mailto:murilosiqueiratoledo@gmail.com)
 
+## Explore meu portfólio
+
+<p align="center">
+  <a href="https://toled0o.github.io/Toled0o/">
+    <img src="assets/portfolio-preview.png" width="100%" alt="Prévia do meu portfólio: visual claro e azul, apresentação do Murilo e destaque do CrashSounds. Clique para abrir o site." />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://toled0o.github.io/Toled0o/"><strong>Abrir meu portfólio ↗</strong></a>
+  · <a href="https://toled0o.github.io/Toled0o/#projetos">Explorar projetos</a>
+  · <a href="https://toled0o.github.io/Toled0o/#contato">Conversar comigo</a>
+</p>
+
+No site: projetos com filtros, animações, tema claro e escuro e demonstração interativa.
+
+
 
 <p align="center">
   <a href="https://toled0o.github.io/Toled0o/"><img src="ezgif-3f47cbe83cc19765.gif" width="440" alt="Animação de programação do perfil original" /></a>
