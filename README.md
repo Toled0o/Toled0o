@@ -32,12 +32,6 @@ Desenvolvo projetos web e desktop para praticar programação, persistência, te
 
 No site: projetos com filtros, animações, tema claro e escuro e demonstração interativa.
 
-
-
-<p align="center">
-  <a href="https://toled0o.github.io/Toled0o/"><img src="ezgif-3f47cbe83cc19765.gif" width="440" alt="Animação de programação do perfil original" /></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/Toled0o/CrashSounds/releases/tag/v0.5.0"><img src="https://img.shields.io/badge/CrashSounds-Baixar%200.5.0-4A90E2?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Baixar CrashSounds 0.5.0 para testes" /></a>
   <a href="https://toled0o.github.io/Toled0o/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Conhecer%20projetos-0D3B8C?style=for-the-badge" alt="Conhecer o portfólio" /></a>
