@@ -1,58 +1,56 @@
-# Olá, eu sou Murilo Toledo
+# Murilo Toledo
 
-**Estudante de Ciência da Computação · FAESA · 2º período · Vitória, ES**
+**Estudante de Ciência da Computação na FAESA · Vitória, ES · Buscando estágio em desenvolvimento de software**
 
-Estou construindo minha base em programação com projetos em Python e explorando o desenvolvimento de aplicações web. Meu interesse é desenvolvimento de software, e busco uma oportunidade de estágio para aprender com uma equipe e evoluir na prática.
+Desenvolvo projetos web e desktop para praticar programação, persistência, testes e integração com recursos do sistema. Minha experiência em atendimento e eventos ajuda a transformar necessidades operacionais em funcionalidades.
 
-[Projetos em Python](https://github.com/Toled0o/Projetos-python) · [LinkedIn](https://www.linkedin.com/in/murilo-siqueira-toledo-157331413/) · [E-mail](mailto:murilosiqueiratoledo@gmail.com)
-
-<a href="https://toled0o.github.io/Toled0o/"><img src="assets/portfolio-cover.svg" alt="Conheça meu portfólio: projetos, código e aprendizado" width="100%"></a>
-
-**[Explorar meu portfólio →](https://toled0o.github.io/Toled0o/)**
+[Portfólio](https://toled0o.github.io/Toled0o/) · [LinkedIn](https://www.linkedin.com/in/murilo-siqueira-toledo-157331413/) · [E-mail](mailto:murilosiqueiratoledo@gmail.com)
 
 ## Projetos em destaque
 
-### Gerenciador financeiro — Python
+### CrashSounds — soundboard open source para Windows
 
-Programa de terminal para cadastrar, listar e remover receitas e despesas, organizar transações por categoria e gerar um resumo mensal. Os registros são armazenados em JSON.
+Aplicativo em **Python e PySide6** com biblioteca de sons, categorias, favoritos, atalhos globais e reprodução em fones e saída virtual. Inclui importação/exportação portátil e download de mídia por links públicos usando yt-dlp e FFmpeg.
 
-**Conceitos presentes:** funções, listas, dicionários, datas, filtros e leitura/escrita de arquivos.
+**Versão pública de testes: 0.5.0.** Instalador Windows x64 e ZIP portátil disponíveis. O áudio começa desativado; nenhum driver é instalado pelo aplicativo. Hardware, latência e compatibilidade com sites exigem validação no ambiente de uso.
 
-[Ver o código](https://github.com/Toled0o/Projetos-python/blob/main/gerenciador_financeiro.py)
+[Conhecer o projeto](https://github.com/Toled0o/CrashSounds) · [Baixar versão de testes](https://github.com/Toled0o/CrashSounds/releases/tag/v0.5.0)
 
-### Analisador de notas — Python
+### Painel de Gestão de Eventos — aplicação web
 
-Programa que recebe notas de 0 a 10, calcula média, maior e menor valor, exibe barras no terminal e salva o resultado em um arquivo de texto.
+Projeto com **Next.js, React, TypeScript e SQLite** para agenda, eventos, equipe, fornecedores, checklists e financeiro por evento. Inclui acessos por token com permissões e relatórios pós-evento enviados pela equipe.
 
-**Conceitos presentes:** validação de entrada, repetição, funções e operações com listas.
+Testes de regras de negócio e permissões, preparação PostgreSQL/Prisma e implantação Docker. Em desenvolvimento e validação local; não apresentado como serviço homologado em produção. Repositório privado.
 
-[Ver o código](https://github.com/Toled0o/Projetos-python/blob/main/analisador_notas.py)
+### Nexus PC — aplicativo desktop para Windows
 
-### Painel de gestão de eventos — em desenvolvimento
+Projeto com **Tauri, Rust e React** para acompanhar memória e processos, analisar temporários e gerenciar inicialização com restauração. Integra consultas do Microsoft Defender e abertura validada do Malwarebytes instalado.
 
-Projeto de aplicação web para organizar eventos, agenda, equipe, fornecedores e acompanhamento financeiro. A implementação utiliza Next.js, React, TypeScript e SQLite.
+Executável compilado e instalado localmente. Não incorpora o motor proprietário do Malwarebytes nem oferece equivalência antimalware certificada. Repositório privado.
 
-Estou usando esse projeto para explorar a relação entre interface, regras de negócio e persistência de dados. A aplicação está em desenvolvimento e validação local, com a entrega para produção ainda em preparação.
+## Tecnologias presentes nos projetos
 
-## Meu aprendizado
-
-| Frente | Onde aparece nos projetos |
+| Área | Tecnologias |
 | --- | --- |
-| Python e lógica de programação | Analisador de notas e gerenciador financeiro |
-| JSON e arquivos de texto | Persistência e exportação nos projetos Python |
-| React, Next.js e TypeScript | Exploração de aplicações web no painel de gestão |
-| SQLite | Persistência local do painel |
-| Git e GitHub | Versionamento e documentação dos projetos |
+| Linguagens | Python, TypeScript; Java na graduação; Rust no Nexus |
+| Interfaces | React, Next.js, PySide6 |
+| Dados | SQLite, JSON; preparação PostgreSQL/Prisma |
+| Qualidade e ferramentas | Git, GitHub, testes automatizados, Playwright, Docker |
 
-Essas são tecnologias com as quais estou tendo contato nos projetos. Meu foco é entender o código, praticar alterações e desenvolver autonomia.
+Meu foco é compreender as decisões técnicas, revisar o código e desenvolver autonomia. Utilizo ferramentas de IA como apoio ao desenvolvimento e à investigação de problemas.
 
-## Próximos passos
+## Formação e experiência
 
-- Consolidar lógica de programação e funções em Python.
-- Explicar os projetos e praticar pequenas alterações com mais autonomia.
-- Aprender a escrever testes para os comportamentos principais.
-- Aprofundar HTML, CSS e JavaScript para evoluir no desenvolvimento web.
+- **Ciência da Computação — FAESA:** graduação em andamento, 2º período em 2026.
+- **Toledo Gastronomia — desde 2024:** atendimento, marketing e apoio à organização de eventos.
+- **Idiomas:** português nativo, inglês A2 e espanhol básico.
 
----
+## Fundamentos e estudos
 
-**Vamos conversar?** [murilosiqueiratoledo@gmail.com](mailto:murilosiqueiratoledo@gmail.com)
+[Projetos em Python](https://github.com/Toled0o/Projetos-python): gerenciador financeiro e analisador de notas, com funções, validação de entradas e persistência em arquivos.
+
+## Contato
+
+Busco estágio para contribuir com uma equipe e aprofundar desenvolvimento de software, testes e integração de sistemas.
+
+[LinkedIn](https://www.linkedin.com/in/murilo-siqueira-toledo-157331413/) · [murilosiqueiratoledo@gmail.com](mailto:murilosiqueiratoledo@gmail.com)
